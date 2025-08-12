@@ -5,8 +5,8 @@ body {
 }
 
 .container {
-    max-width: 800px; /* limita a largura para facilitar a leitura */
-    margin: 0 auto; /* centraliza o conteúdo na tela */
-    text-align: justify; /* deixa o texto alinhado */
-    padding: 20px; /* adiciona espaço interno */
+    max-width: 800px;
+    margin: 0 auto; 
+    text-align: justify; 
+    padding: 20px; 
 }
